@@ -1,0 +1,139 @@
+[
+  {
+    "photo_url": "https://www.shutterstock.com/image-photo/plastic-toy-truck-isolated-on-260nw-214830187.jpg",
+    "name": "Monster Off-Roader",
+    "price": 49.99,
+    "seller_name": "ABC Toys",
+    "seller_email": "abc@example.com",
+    "sub_category": "Trucks",
+    "rating": 4.5,
+    "quantity": 10,
+    "description": "Conquer any terrain with the Monster Off-Roader toy truck, designed for off-road adventures."
+  },
+  {
+    "photo_url": "https://www.shutterstock.com/image-photo/yellow-toy-dump-truck-isolated-260nw-148948355.jpg",
+    "name": "Giant Hauler",
+    "price": 59.99,
+    "seller_name": "XYZ Toys",
+    "seller_email": "xyz@example.com",
+    "sub_category": "Trucks",
+    "rating": 4.8,
+    "quantity": 8,
+    "description": "Transport heavy loads with ease using the Giant Hauler toy truck, featuring a spacious cargo bed."
+  },
+  {
+    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPZnb62QPo1R5wF6fLugqiSduqMwqoSRPhwg&usqp=CAU",
+    "name": "Mega Dump Truck",
+    "price": 39.99,
+    "seller_name": "123 Toys",
+    "seller_email": "123@example.com",
+    "sub_category": "Trucks",
+    "rating": 4.3,
+    "quantity": 12,
+    "description": "Experience the excitement of construction sites with the Mega Dump Truck toy truck, capable of carrying and dumping large loads."
+  },
+  {
+    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkoy8coRHrpm-Dy_yQ79iCeDlaqQ8SGz5IbQ&usqp=CAU",
+    "name": "Extreme Mud Runner",
+    "price": 54.99,
+    "seller_name": "Toy World",
+    "seller_email": "info@toyworld.com",
+    "sub_category": "Trucks",
+    "rating": 4.6,
+    "quantity": 6,
+    "description": "Take on muddy terrains and conquer obstacles with the Extreme Mud Runner toy truck, built for extreme off-road challenges."
+  },
+  {
+    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9CDtsVbs6NffwTMcma9e1ewNytXCklPAAYw&usqp=CAU",
+    "name": "Speedster GT",
+    "price": 29.99,
+    "seller_name": "ABC Toys",
+    "seller_email": "abc@example.com",
+    "sub_category": "Sports Cars",
+    "rating": 4.5,
+    "quantity": 10,
+    "description": "Experience the thrill of speed with the Speedster GT toy sports car."
+  },
+  {
+    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9_tAwQELlxnQu2PvDGzrXtuwHPu9EskPtvQ&usqp=CAU",
+    "name": "Supercharged Racer",
+    "price": 39.99,
+    "seller_name": "XYZ Toys",
+    "seller_email": "xyz@example.com",
+    "sub_category": "Sports Cars",
+    "rating": 4.8,
+    "quantity": 8,
+    "description": "Get ready to race with the powerful and supercharged Racer toy sports car."
+  },
+  {
+    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZuuB4Fm0Z3LKq55ZDFkMg_GFtVL6pRiEJWw&usqp=CAU",
+    "name": "Turbo Trackster",
+    "price": 24.99,
+    "seller_name": "123 Toys",
+    "seller_email": "123@example.com",
+    "sub_category": "Sports Cars",
+    "rating": 4.3,
+    "quantity": 12,
+    "description": "Experience lightning-fast speed on the turbocharged tracks with the Turbo Trackster toy sports car."
+  },
+  {
+    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtd3vZ_ffnEn9yY3z-9Zm3-VhgNdhgBooHIQ&usqp=CAU",
+    "name": "Revolution GT",
+    "price": 34.99,
+    "seller_name": "Toy World",
+    "seller_email": "info@toyworld.com",
+    "sub_category": "Sports Cars",
+    "rating": 4.6,
+    "quantity": 6,
+    "description": "Experience a revolution in racing with the high-performance Revolution GT toy sports car."
+  },
+  {
+    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZtxJ8tiFyp0_YWn6si7rUqZ9zz7toyShrJw&usqp=CAU",
+    "name": "City Cruiser",
+    "price": 19.99,
+    "seller_name": "ABC Toys",
+    "seller_email": "abc@example.com",
+    "sub_category": "Regular Cars",
+    "rating": 4.2,
+    "quantity": 10,
+    "description": "Cruise through the city streets with the City Cruiser toy regular car, perfect for everyday adventures."
+  },
+  {
+    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo_Wrrvtbx2zqud6nX5bB1m3h6BJTzpRyiLw&usqp=CAU",
+    "name": "Racing Champion",
+    "price": 29.99,
+    "seller_name": "XYZ Toys",
+    "seller_email": "xyz@example.com",
+    "sub_category": "Regular Cars",
+    "rating": 4.5,
+    "quantity": 8,
+    "description": "Experience the thrill of racing with the Racing Champion toy regular car, designed for speed enthusiasts."
+  },
+  {
+    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_LO7ybOnOhdlp3tq68xTbVBvWdkpW-96mhA&usqp=CAU",
+    "name": "Classic Vintage",
+    "price": 24.99,
+    "seller_name": "123 Toys",
+    "seller_email": "123@example.com",
+    "sub_category": "Regular Cars",
+    "rating": 4.7,
+    "quantity": 12,
+    "description": "Step back in time with the Classic Vintage toy regular car, featuring a timeless design."
+  },
+  {
+    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnRUkPiGz32rwqZPMiADacKtmshil3yMRrdw&usqp=CAU",
+    "name": "Family SUV",
+    "price": 39.99,
+    "seller_name": "Toy World",
+    "seller_email": "info@toyworld.com",
+    "sub_category": "Regular Cars",
+    "rating": 4.4,
+    "quantity": 6,
+    "description": "Go on family adventures with the spacious and versatile Family SUV toy regular car."
+  }
+]
+
+
+
+
+
